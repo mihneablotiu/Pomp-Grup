@@ -2,7 +2,9 @@
 Proiectarea unui dispozitiv de comandă folosind o unitate de comandă microprogramată bazată pe microinstrucțiuni cu format variabil.
 
 Ce folosim?
+
 ◦ Unitatea de comandă microprogramată cu structura generică.
+
 ◦ Componente digitale adaptate nevoilor de implementare a temei.
 
 
