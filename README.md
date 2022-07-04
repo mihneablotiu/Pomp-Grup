@@ -3,7 +3,7 @@ Proiectarea unui dispozitiv de comandă folosind o unitate de comandă microprog
 
 Ce folosim?
 
-◦ Unitatea de comandă microprogramată cu structura generică.
+◦ Unitatea de comandă microprogramată cu structură generică.
 
 ◦ Componente digitale adaptate nevoilor de implementare a temei.
 
